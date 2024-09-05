@@ -1,0 +1,28 @@
+{
+  "produtos": [
+      { "nome": "Aromatizador", "preco": 129.90, "imagem": "produto1.jpg" },
+      { "nome": "Produtos de beleza", "preco": 164.40, "imagem": "produto2.jpg" },
+      { "nome": "Painel solar", "preco": 299.90, "imagem": "produto3.jpg" },
+      { "nome": "Bolsa", "preco": 410.50, "imagem": "produto4.jpg" },
+      { "nome": "Cesto", "preco": 119.60, "imagem": "produto5.jpg" },
+      { "nome": "Cadeira de bamboo", "preco": 240.80, "imagem": "produto6.jpg" }
+  ],
+  "sidebar": {
+      "toggleButtonId": "toggle-sidebar",
+      "sidebarId": "sidebar",
+      "closeButtonId": "close-sidebar"
+  },
+  "carrinho": [
+      { "nome": "Produto 1", "preco": 100 },
+      { "nome": "Produto 2", "preco": 200 }
+  ],
+  "pagina": {
+      "produtosDivId": "produtos",
+      "carrinhoDivId": "carrinho",
+      "sidebar": {
+          "toggleButtonId": "toggle-sidebar",
+          "sidebarId": "sidebar",
+          "closeButtonId": "close-sidebar"
+      }
+  }
+}
